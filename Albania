@@ -1,0 +1,16 @@
+#EXTINF:-1,Supersport 1
+http://91.205.173.193/hls/sports/ss1/stream.m3u8
+#EXTINF:-1,Supersport 2
+http://91.205.173.193/hls/sports/ss2/stream.m3u8
+#EXTINF:-1,Supersport 3
+http://91.205.173.193/hls/sports/ss3/stream.m3u8
+#EXTINF:-1,Supersport 4
+http://91.205.173.193/hls/sports/ss4/stream.m3u8
+#EXTINF:-1,Supersport 1
+http://91.205.173.193/hls/sports/ks1/stream.m3u8
+#EXTINF:-1,Supersport 2
+http://91.205.173.193/hls/sports/ks2/stream.m3u8
+#EXTINF:-1,tring sport 1
+http://91.205.173.193/hls/sports/ts1/stream.m3u8
+#EXTINF:-1,tring sport 2
+http://91.205.173.193/hls/sports/ts2/stream.m3u8
